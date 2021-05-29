@@ -1,0 +1,10 @@
+C:\Users\Юрий Зазвирский\Desktop\calculator\calculator\bin\Debug\CalculatorShkut.exe.config
+C:\Users\Юрий Зазвирский\Desktop\calculator\calculator\bin\Debug\CalculatorShkut.exe
+C:\Users\Юрий Зазвирский\Desktop\calculator\calculator\bin\Debug\CalculatorShkut.pdb
+C:\Users\Юрий Зазвирский\Desktop\calculator\calculator\obj\Debug\calculator.csprojAssemblyReference.cache
+C:\Users\Юрий Зазвирский\Desktop\calculator\calculator\obj\Debug\calculator.Form1.resources
+C:\Users\Юрий Зазвирский\Desktop\calculator\calculator\obj\Debug\CalculatorShkut.Properties.Resources.resources
+C:\Users\Юрий Зазвирский\Desktop\calculator\calculator\obj\Debug\calculator.csproj.GenerateResource.cache
+C:\Users\Юрий Зазвирский\Desktop\calculator\calculator\obj\Debug\calculator.csproj.CoreCompileInputs.cache
+C:\Users\Юрий Зазвирский\Desktop\calculator\calculator\obj\Debug\CalculatorShkut.exe
+C:\Users\Юрий Зазвирский\Desktop\calculator\calculator\obj\Debug\CalculatorShkut.pdb
